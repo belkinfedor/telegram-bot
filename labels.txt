@@ -1,0 +1,12 @@
+0 csgo
+1 stendoff 2
+2 plants vs zombies
+3 minecraft
+4 brawl stars
+5 spaceflight simulator
+6 worldbox
+7 crossout
+8 warthunder
+9 pubg mobile
+10 stalker
+11 among us
